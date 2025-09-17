@@ -59,7 +59,7 @@ export const CommentCard = ({
             onClick={() => setOpen(true)}
           />
         </div>
-        <div>
+        <div className="w-full">
           <div className="flex items-center sm:justify-between mb-3">
             <div className="flex flex-col justify-start">
               <h5
