@@ -3,8 +3,6 @@
 A simple mock **comment system** built with Next.js.  
 Includes reusable UI components with transitions, and a basic comment workflow where users can pick an identity, write a comment, and see it added to the list.
 
-🔗 Live Demo: [comment-sys-red-h.vercel.app](https://comment-sys-red-h.vercel.app/)
-
 ---
 
 ## Features
