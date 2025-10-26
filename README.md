@@ -14,14 +14,3 @@ Includes reusable UI components with transitions, and a basic comment workflow w
 ---
 
 ## Installation
-
-```bash
-# Clone repo
-git clone <your-repo-url>
-cd comment-sys
-
-# Install deps
-npm install
-
-# Run locally
-npm run dev
